@@ -6,3 +6,4 @@ print("How mcuh do you weigh?", end= ' ')
 weigh = input()
 
 print(f"So, you're {age} old, {height} tall and {weight} heavy.")
+#123456789012345678901234567890
